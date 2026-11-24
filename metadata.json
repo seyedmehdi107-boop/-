@@ -1,0 +1,8 @@
+{
+  "name": "Remix پرواز کلاغ",
+  "description": "بازی پرواز کلاغ با نمای پشت سر و سبک هنری طراحی با جوهر روی کاغذ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
